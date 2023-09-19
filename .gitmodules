@@ -1,0 +1,6 @@
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:PrettyMagnolia/Image-Retrieval-Back-End.git
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:PrettyMagnolia/Image-Retrieval-Front-End.git
